@@ -38,15 +38,6 @@ You can change or extend these at any time from **Settings → File Types**.
 
 ---
 
-## 🖥️ Screenshots
-
-> Add screenshots here, e.g.:
->
-> `![Main dashboard](docs/dashboard.png)`
-> `![File types editor](docs/file-types.png)`
-
----
-
 ## 🚀 Getting started
 
 ### Prerequisites
@@ -149,7 +140,7 @@ cp Settings.example.json Settings.json
 
 ## 📄 License
 
-No license file has been added yet. If you want it open source, add a `LICENSE` file (for example, MIT) at the repository root.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
