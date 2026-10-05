@@ -1,0 +1,28 @@
+{
+  "watch_paths": [
+    "C:\\Users\\YOUR_USERNAME\\Downloads"
+  ],
+  "target_folder": {
+    ".jpg": "Image",
+    ".jpeg": "Image",
+    ".png": "Image",
+    ".gif": "Image",
+    ".svg": "Image",
+    ".webp": "Image",
+    ".mp4": "Video",
+    ".mkv": "Video",
+    ".avi": "Video",
+    ".pdf": "Document",
+    ".docx": "Document",
+    ".txt": "Document",
+    ".zip": "Archive",
+    ".rar": "Archive",
+    ".7z": "Archive",
+    ".exe": "Programs",
+    ".msi": "Programs"
+  },
+  "destination_path": "",
+  "notifications": true,
+  "run_at_startup": false,
+  "recent_moves": []
+}
