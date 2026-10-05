@@ -1,0 +1,13 @@
+# Binaries
+*.exe
+*.dll
+*.so
+*.dylib
+test_build.exe
+
+# Local runtime config (contains your personal folder paths)
+Settings.json
+
+# OS junk
+Thumbs.db
+.DS_Store
