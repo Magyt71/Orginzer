@@ -49,7 +49,7 @@ You can change or extend these at any time from **Settings → File Types**.
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/YOUR_USERNAME/organization-moderator.git
+git clone https://github.com/Magyt71/Orginzer.git
 cd organization-moderator
 
 # 2. Fetch dependencies
